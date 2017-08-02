@@ -1,0 +1,4 @@
+requests
+pyqrcode
+qrtools
+zbar
